@@ -11,6 +11,8 @@ public class JenkinDockerApplication {
 
 		System.out.println(" Hello sameer ");
 
+		System.out.println("new changes");
+
 	}
 
 }
